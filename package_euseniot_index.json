@@ -2,6 +2,7 @@
   "packages": [
     {
       "maintainer": "EusenIoT",
+      "name": "euseniot",
       "help": {
         "online": "http://www.euseniot.com"
       },
@@ -13,10 +14,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "EusenIoT",
-          "help": {
-            "online": "http://www.euseniot.com"
-          },
-          "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/blob/master/euseniot-1.0.0.zip?raw=true",
+          "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/euseniot-1.0.0.zip",
           "archiveFileName": "euseniot-1.0.0.zip",
           "checksum": "SHA-256:d48b6732f31d0b3ce1c4949befedfa1ad6b052e6b2f217663d66acb36891a2f1",
           "size": "96416",
