@@ -1,0 +1,31 @@
+{
+  "packages": [
+    {
+      "maintainer": "EusenIoT",
+      "name": "euseniot",
+      "help": {
+        "online": "http://www.euseniot.com"
+      },
+      "tools": [],
+      "websiteURL": "http://www.euseniot.com",
+      "platforms": [
+        {
+          "name": "EusenIoT Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "EusenIoT",
+          "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/euseniot-1.0.0.zip",
+          "archiveFileName": "euseniot-1.0.0.zip",
+          "checksum": "SHA-256:b43125929f5f19653f2c0a17d4108c822bfb4bf2c39a1fa51abefac242b3eccf",
+          "size": "742782",
+          "boards": [
+            {
+              "name": "EusenIoT Neonode Adapter"
+            }
+          ],
+          "toolsDependencies": []
+        }
+      ]
+    }
+  ]
+}
