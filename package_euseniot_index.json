@@ -16,8 +16,8 @@
           "category": "EusenIoT",
           "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/euseniot-1.0.0.zip",
           "archiveFileName": "euseniot-1.0.0.zip",
-          "checksum": "SHA-256:42542ea9588ec07ba0181f1e74089e71c400f64e334320d1ca02566a7e491b20",
-          "size": "596333",
+          "checksum": "SHA-256:61049442a7cd1e14133c504d48dccbc72b458d6a196bd542b4bc96be4140d870",
+          "size": "686932",
           "boards": [
             {
               "name": "EusenIoT Neonode Adapter"
