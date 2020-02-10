@@ -16,8 +16,8 @@
           "category": "Neonode",
           "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/neonode-adapter-1.0.0.zip",
           "archiveFileName": "neonode-adapter-1.0.0.zip",
-          "checksum": "SHA-256:c9aadd4b0fcae4580139ed7626784015c2feba2d2fb502760e512434a4427527",
-          "size": "239748",
+          "checksum": "SHA-256:42f86c809eb4e670176432eb4862afb85426d1d75df553c2c8ee9eeb8dd7dbb9",
+          "size": "235486",
           "boards": [
             {
               "name": "Neonode Adapter"
