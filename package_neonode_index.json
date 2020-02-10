@@ -1,0 +1,62 @@
+{
+  "packages": [
+    {
+      "maintainer": "Neonode",
+      "name": "neonode",
+      "help": {
+        "online": "https://www.neonode.com/products/"
+      },
+      "tools": [],
+      "websiteURL": "https://www.neonode.com/products/",
+      "platforms": [
+        {
+          "name": "Neonode Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Neonode",
+          "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/neonode-1.0.0.zip",
+          "archiveFileName": "neonode-1.0.0.zip",
+          "checksum": "SHA-256:c9aadd4b0fcae4580139ed7626784015c2feba2d2fb502760e512434a4427527",
+          "size": "239748",
+          "boards": [
+            {
+              "name": "Neonode Adapter"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4" 
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
