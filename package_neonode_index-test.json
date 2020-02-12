@@ -14,8 +14,8 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Neonode",
-          "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/neonode-adapter-1.0.0-test.zip",
-          "archiveFileName": "neonode-adapter-1.0.0-test.zip",
+          "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/neonode-adapter-1.0.0.zip",
+          "archiveFileName": "neonode-adapter-1.0.0.zip",
           "checksum": "SHA-256:9b7df076e22f8f1bb0a582345fc5ee47ee38462c252591428fda103c9e845723",
           "size": "234906",
           "boards": [
