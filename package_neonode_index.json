@@ -10,14 +10,14 @@
       "websiteURL": "https://www.neonode.com/products/",
       "platforms": [
         {
-          "name": "Neonode Boards",
+          "name": "Neonode Prototyping Board",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Neonode",
-          "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/neonode-adapter-1.0.0.zip",
-          "archiveFileName": "neonode-adapter-1.0.0.zip",
-          "checksum": "SHA-256:c20ef853685c543f3098178751f9aeece3b4a5c64a2147aff36495885af95bec",
-          "size": "596499",
+          "url": "https://github.com/wangxiatao/ARDUINO_BOARDS/raw/master/neonode-prototyping-board-1.0.0.zip",
+          "archiveFileName": "neonode-prototyping-board-1.0.0.zip",
+          "checksum": "SHA-256:c51d45b5389d2cdce995c1bd78f4350d584e30da0ef63ae3c6a7bf6ead67cf0e",
+          "size": "254151",
           "boards": [
             {
               "name": "Neonode Prototyping Board"
